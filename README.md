@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Alexandr 👋
 
-<!--
-**AlexandrChek/AlexandrChek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Frontend / Full-Stack Developer
 
-Here are some ideas to get you started:
+I'm a web developer focused on building modern web applications with **React, JavaScript and Node.js**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy developing complete applications from the user interface to the backend API and working with responsive, maintainable web interfaces.
+
+### Tech Stack
+
+**Frontend:**  
+React, React Router, Redux 5, JavaScript (ES6+), HTML5, CSS3
+
+**Backend:**  
+Node.js, Express.js, REST API
+
+**Tools:**  
+Git, GitHub, Vite, npm, Prettier, ESLint
+
+### Featured Projects
+
+💼 **[IT Jobs International](https://alexandrchek.github.io/IT-Jobs-International/)**  
+Full-stack web application for IT job seekers and companies.
+
+🌍 **[Countries Info](https://alexandrchek.github.io/Countries-Info/)**  
+React application using external REST APIs to retrieve and display country information.
+
+### Currently
+
+Looking for a **Junior Frontend / Full-Stack Developer** position in Bulgaria (Varna or remote).
