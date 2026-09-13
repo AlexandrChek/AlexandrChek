@@ -7,7 +7,7 @@ I'm a web developer focused on building modern web applications with **React, Ja
 I enjoy developing complete applications from the user interface to the backend API and working with responsive, maintainable web interfaces.
 
 ### Portfolio:
-💻 **[](https://alexandrchek.github.io/portfolio/index.html)**
+💻 **[https://alexandrchek.github.io/portfolio/index.html](https://alexandrchek.github.io/portfolio/index.html)**
 
 ### Tech Stack
 
